@@ -5,7 +5,7 @@ using LightBDD.XUnit2;
 
 [assembly: LightBddScope]
 
-[Label("FEATURE_2")]
+[Label("FEATURE_1")]
 [FeatureDescription(
 @"Suggests products based on customer's yearly energy consumption")]
 public partial class Tariff_Service
