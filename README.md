@@ -1,8 +1,8 @@
 # TaskTariff
 
 * Tariff Comparison Develop a model to build up the following two products and to compare these products based on their annual costs. * * The comparison should accept the following input parameter:
- * Consumption (kWh/year) and create a list of these products with the columns.
- * Tariff name,Annual costs (€/year) The list should be sorted by costs in ascending order.
+  * Consumption (kWh/year) and create a list of these products with the columns.
+  * Tariff name,Annual costs (€/year) The list should be sorted by costs in ascending order.
  
 ## Getting Started
 
@@ -44,7 +44,7 @@ and create a list of these products with the columns
 * Build and run the TaskTariff.Spec 
 * BDD reports are added into repository, for easy access (see below section).
 * BDD Test report URL
-   * https://htmlpreview.github.io/https://github.com/Rakgkv/TaskTariff/blob/master/TaskTariff.spec/Reports/FeaturesReport.html
+   * https://htmlpreview.github.io/?https://github.com/Rakgkv/TaskTariff/blob/master/TaskTariff.spec/Reports/FeaturesReport.html
 
 
 
