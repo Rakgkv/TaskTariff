@@ -1,0 +1,14 @@
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\obj\Debug\netcoreapp2.1\TaskTariff.csproj.CoreCompileInputs.cache
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\obj\Debug\netcoreapp2.1\TaskTariff.AssemblyInfoInputs.cache
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\obj\Debug\netcoreapp2.1\TaskTariff.AssemblyInfo.cs
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\obj\Debug\netcoreapp2.1\TaskTariff.csprojAssemblyReference.cache
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\obj\Debug\netcoreapp2.1\TaskTariff.RazorAssemblyInfo.cache
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\obj\Debug\netcoreapp2.1\TaskTariff.RazorAssemblyInfo.cs
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\bin\Debug\netcoreapp2.1\TaskTariff.deps.json
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\bin\Debug\netcoreapp2.1\TaskTariff.runtimeconfig.json
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\bin\Debug\netcoreapp2.1\TaskTariff.runtimeconfig.dev.json
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\bin\Debug\netcoreapp2.1\TaskTariff.dll
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\bin\Debug\netcoreapp2.1\TaskTariff.pdb
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\obj\Debug\netcoreapp2.1\TaskTariff.RazorTargetAssemblyInfo.cache
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\obj\Debug\netcoreapp2.1\TaskTariff.dll
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff\obj\Debug\netcoreapp2.1\TaskTariff.pdb

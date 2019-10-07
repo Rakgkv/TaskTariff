@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskTariff", "TaskTariff\TaskTariff.csproj", "{CF455529-0E4E-4EC4-89AD-5F15282D4BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTariff.spec", "TaskTariff.spec\TaskTariff.spec.csproj", "{FAA6BADC-1C81-4979-AABA-66D6A1BC1449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF455529-0E4E-4EC4-89AD-5F15282D4BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF455529-0E4E-4EC4-89AD-5F15282D4BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF455529-0E4E-4EC4-89AD-5F15282D4BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF455529-0E4E-4EC4-89AD-5F15282D4BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA6BADC-1C81-4979-AABA-66D6A1BC1449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA6BADC-1C81-4979-AABA-66D6A1BC1449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA6BADC-1C81-4979-AABA-66D6A1BC1449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA6BADC-1C81-4979-AABA-66D6A1BC1449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36E2F150-876F-40C0-9E64-A357FC63EF0D}
+	EndGlobalSection
+EndGlobal

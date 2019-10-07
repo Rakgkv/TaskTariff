@@ -1,0 +1,17 @@
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\bin\Debug\netcoreapp2.1\TaskTariff.spec.deps.json
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\bin\Debug\netcoreapp2.1\TaskTariff.spec.runtimeconfig.json
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\bin\Debug\netcoreapp2.1\TaskTariff.spec.runtimeconfig.dev.json
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\bin\Debug\netcoreapp2.1\TaskTariff.spec.dll
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\obj\Debug\netcoreapp2.1\TaskTariff.spec.csprojAssemblyReference.cache
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\obj\Debug\netcoreapp2.1\TaskTariff.spec.csproj.CoreCompileInputs.cache
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\obj\Debug\netcoreapp2.1\TaskTariff.spec.AssemblyInfoInputs.cache
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\obj\Debug\netcoreapp2.1\TaskTariff.spec.AssemblyInfo.cs
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\bin\Debug\netcoreapp2.1\TaskTariff.spec.pdb
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\obj\Debug\netcoreapp2.1\TaskTariff.spec.dll
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\obj\Debug\netcoreapp2.1\TaskTariff.spec.pdb
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\bin\Debug\netcoreapp2.1\TaskTariff.dll
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\bin\Debug\netcoreapp2.1\TaskTariff.pdb
+C:\Users\RAKE\source\repos\TaskTariff\TaskTariff.spec\obj\Debug\netcoreapp2.1\TaskTariff.spec.csproj.CopyComplete
