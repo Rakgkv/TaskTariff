@@ -1,8 +1,8 @@
 # TaskTariff
 
-* Tariff Comparison Develop a model to build up the following two products and to compare these products based on their annual costs. * * The comparison should accept the following input parameter:
-  * Consumption (kWh/year) and create a list of these products with the columns.
-  * Tariff name,Annual costs (€/year) The list should be sorted by costs in ascending order.
+* Tariff Comparison Develop a model to build up the following two products and to compare these products based on their annual costs.     * The comparison should accept the following input parameter:
+    * Consumption (kWh/year) and create a list of these products with the columns.
+    * Tariff name,Annual costs (€/year) The list should be sorted by costs in ascending order.
  
 ## Getting Started
 
