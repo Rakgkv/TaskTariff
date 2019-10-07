@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TestResults>
-  <Summary TestExecutionStart="2019-10-07T01:58:49.924144Z" TestExecutionEnd="2019-10-07T01:58:50.047602Z" TestExecutionTime="PT0.123458S">
+  <Summary TestExecutionStart="2019-10-07T06:09:08.0294004Z" TestExecutionEnd="2019-10-07T06:09:08.1633077Z" TestExecutionTime="PT0.1339073S">
     <Features Count="1" />
     <Scenarios Count="4" Passed="4" Bypassed="0" Failed="0" Ignored="0" />
     <Steps Count="16" Passed="16" Bypassed="0" Failed="0" Ignored="0" NotRun="0" />
   </Summary>
   <Feature Name="Tariff Service">
-    <Label Name="FEATURE_2" />
+    <Label Name="FEATURE_1" />
     <Description>Suggests products based on customer's yearly energy consumption</Description>
-    <Scenario Status="Passed" Name="Validate products for 3500 kWh" ExecutionStart="2019-10-07T01:58:49.924144Z" ExecutionTime="PT0.0916536S">
+    <Scenario Status="Passed" Name="Validate products for 3500 kWh" ExecutionStart="2019-10-07T06:09:08.0294004Z" ExecutionTime="PT0.0957022S">
       <Name Format="Validate products for 3500 kWh" />
       <Label Name="SCENARIO-1" />
-      <Step Status="Passed" Number="1" Name="GIVEN the yearly energy consumption at 3500 kWh per year" ExecutionStart="2019-10-07T01:58:49.9653405Z" ExecutionTime="PT0.0262752S">
+      <Step Status="Passed" Number="1" Name="GIVEN the yearly energy consumption at 3500 kWh per year" ExecutionStart="2019-10-07T06:09:08.0706112Z" ExecutionTime="PT0.0270395S">
         <StepName StepType="GIVEN" Format="the yearly energy consumption at 3500 kWh per year" />
       </Step>
-      <Step Status="Passed" Number="2" Name="Order of product list should be ProductB and then ProductA" ExecutionStart="2019-10-07T01:58:50.0078654Z" ExecutionTime="PT0.00149S">
+      <Step Status="Passed" Number="2" Name="Order of product list should be ProductB and then ProductA" ExecutionStart="2019-10-07T06:09:08.114814Z" ExecutionTime="PT0.0022423S">
         <StepName Format="Order of product list should be ProductB and then ProductA" />
       </Step>
-      <Step Status="Passed" Number="3" Name="ProductB is cheaper with an annual estimate as 800 Euro" ExecutionStart="2019-10-07T01:58:50.0096941Z" ExecutionTime="PT0.0047651S">
+      <Step Status="Passed" Number="3" Name="ProductB is cheaper with an annual estimate as 800 Euro" ExecutionStart="2019-10-07T06:09:08.1175275Z" ExecutionTime="PT0.0058423S">
         <StepName Format="ProductB is cheaper with an annual estimate as 800 Euro" />
       </Step>
-      <Step Status="Passed" Number="4" Name="ProductA should have annual estimate as 830 Euro" ExecutionStart="2019-10-07T01:58:50.0148924Z" ExecutionTime="PT0.0003518S">
+      <Step Status="Passed" Number="4" Name="ProductA should have annual estimate as 830 Euro" ExecutionStart="2019-10-07T06:09:08.1238489Z" ExecutionTime="PT0.0005553S">
         <StepName Format="ProductA should have annual estimate as 830 Euro" />
       </Step>
     </Scenario>
-    <Scenario Status="Passed" Name="Validate products for 0 kWh" ExecutionStart="2019-10-07T01:58:50.0365789Z" ExecutionTime="PT0.0033615S">
+    <Scenario Status="Passed" Name="Validate products for 0 kWh" ExecutionStart="2019-10-07T06:09:08.1471609Z" ExecutionTime="PT0.0048914S">
       <Name Format="Validate products for 0 kWh" />
       <Label Name="SCENARIO-4" />
-      <Step Status="Passed" Number="1" Name="GIVEN the yearly energy consumption at 0 kWh per year" ExecutionStart="2019-10-07T01:58:50.0373191Z" ExecutionTime="PT0.0004401S">
+      <Step Status="Passed" Number="1" Name="GIVEN the yearly energy consumption at 0 kWh per year" ExecutionStart="2019-10-07T06:09:08.1476869Z" ExecutionTime="PT0.0004606S">
         <StepName StepType="GIVEN" Format="the yearly energy consumption at 0 kWh per year" />
       </Step>
-      <Step Status="Passed" Number="2" Name="Order of product list should be ProductA and then ProductB" ExecutionStart="2019-10-07T01:58:50.0380236Z" ExecutionTime="PT0.0004982S">
+      <Step Status="Passed" Number="2" Name="Order of product list should be ProductA and then ProductB" ExecutionStart="2019-10-07T06:09:08.1484419Z" ExecutionTime="PT0.0007988S">
         <StepName Format="Order of product list should be ProductA and then ProductB" />
       </Step>
-      <Step Status="Passed" Number="3" Name="ProductA is cheaper with an annual estimate as 60 Euro" ExecutionStart="2019-10-07T01:58:50.0387813Z" ExecutionTime="PT0.0003917S">
+      <Step Status="Passed" Number="3" Name="ProductA is cheaper with an annual estimate as 60 Euro" ExecutionStart="2019-10-07T06:09:08.1495717Z" ExecutionTime="PT0.0012276S">
         <StepName Format="ProductA is cheaper with an annual estimate as 60 Euro" />
       </Step>
-      <Step Status="Passed" Number="4" Name="ProductB should have annual estimate as 800 Euro" ExecutionStart="2019-10-07T01:58:50.039414Z" ExecutionTime="PT0.0003823S">
+      <Step Status="Passed" Number="4" Name="ProductB should have annual estimate as 800 Euro" ExecutionStart="2019-10-07T06:09:08.1512895Z" ExecutionTime="PT0.0005556S">
         <StepName Format="ProductB should have annual estimate as 800 Euro" />
       </Step>
     </Scenario>
-    <Scenario Status="Passed" Name="Validate products for 4500 kWh" ExecutionStart="2019-10-07T01:58:50.041254Z" ExecutionTime="PT0.0023703S">
+    <Scenario Status="Passed" Name="Validate products for 4500 kWh" ExecutionStart="2019-10-07T06:09:08.1545374Z" ExecutionTime="PT0.0035767S">
       <Name Format="Validate products for 4500 kWh" />
       <Label Name="SCENARIO-2" />
-      <Step Status="Passed" Number="1" Name="GIVEN the yearly energy consumption at 4500 kWh per year" ExecutionStart="2019-10-07T01:58:50.0416247Z" ExecutionTime="PT0.0003743S">
+      <Step Status="Passed" Number="1" Name="GIVEN the yearly energy consumption at 4500 kWh per year" ExecutionStart="2019-10-07T06:09:08.155145Z" ExecutionTime="PT0.0005529S">
         <StepName StepType="GIVEN" Format="the yearly energy consumption at 4500 kWh per year" />
       </Step>
-      <Step Status="Passed" Number="2" Name="Order of product list should be ProductB and then ProductA" ExecutionStart="2019-10-07T01:58:50.0422688Z" ExecutionTime="PT0.000024S">
+      <Step Status="Passed" Number="2" Name="Order of product list should be ProductB and then ProductA" ExecutionStart="2019-10-07T06:09:08.1560319Z" ExecutionTime="PT0.0000944S">
         <StepName Format="Order of product list should be ProductB and then ProductA" />
       </Step>
-      <Step Status="Passed" Number="3" Name="ProductB is cheaper with an annual estimate as 950 Euro" ExecutionStart="2019-10-07T01:58:50.0425171Z" ExecutionTime="PT0.0003809S">
+      <Step Status="Passed" Number="3" Name="ProductB is cheaper with an annual estimate as 950 Euro" ExecutionStart="2019-10-07T06:09:08.1563671Z" ExecutionTime="PT0.0006502S">
         <StepName Format="ProductB is cheaper with an annual estimate as 950 Euro" />
       </Step>
-      <Step Status="Passed" Number="4" Name="ProductA should have annual estimate as 1050 Euro" ExecutionStart="2019-10-07T01:58:50.0431534Z" ExecutionTime="PT0.000331S">
+      <Step Status="Passed" Number="4" Name="ProductA should have annual estimate as 1050 Euro" ExecutionStart="2019-10-07T06:09:08.1573647Z" ExecutionTime="PT0.0005581S">
         <StepName Format="ProductA should have annual estimate as 1050 Euro" />
       </Step>
     </Scenario>
-    <Scenario Status="Passed" Name="Validate products for 6000 kWh" ExecutionStart="2019-10-07T01:58:50.0448558Z" ExecutionTime="PT0.0027462S">
+    <Scenario Status="Passed" Name="Validate products for 6000 kWh" ExecutionStart="2019-10-07T06:09:08.1599498Z" ExecutionTime="PT0.0033579S">
       <Name Format="Validate products for 6000 kWh" />
       <Label Name="SCENARIO-3" />
-      <Step Status="Passed" Number="1" Name="GIVEN the yearly energy consumption at 6000 kWh per year" ExecutionStart="2019-10-07T01:58:50.0453438Z" ExecutionTime="PT0.0005754S">
+      <Step Status="Passed" Number="1" Name="GIVEN the yearly energy consumption at 6000 kWh per year" ExecutionStart="2019-10-07T06:09:08.1605451Z" ExecutionTime="PT0.0005437S">
         <StepName StepType="GIVEN" Format="the yearly energy consumption at 6000 kWh per year" />
       </Step>
-      <Step Status="Passed" Number="2" Name="Order of product list should be ProductA and then ProductB" ExecutionStart="2019-10-07T01:58:50.046271Z" ExecutionTime="PT0.0000261S">
+      <Step Status="Passed" Number="2" Name="Order of product list should be ProductA and then ProductB" ExecutionStart="2019-10-07T06:09:08.1614332Z" ExecutionTime="PT0.0000452S">
         <StepName Format="Order of product list should be ProductA and then ProductB" />
       </Step>
-      <Step Status="Passed" Number="3" Name="ProductA is cheaper with an annual estimate as 1380 Euro" ExecutionStart="2019-10-07T01:58:50.0465257Z" ExecutionTime="PT0.0003776S">
+      <Step Status="Passed" Number="3" Name="ProductA is cheaper with an annual estimate as 1380 Euro" ExecutionStart="2019-10-07T06:09:08.1617573Z" ExecutionTime="PT0.0005309S">
         <StepName Format="ProductA is cheaper with an annual estimate as 1380 Euro" />
       </Step>
-      <Step Status="Passed" Number="4" Name="ProductB should have annual estimate as 1400 Euro" ExecutionStart="2019-10-07T01:58:50.0471856Z" ExecutionTime="PT0.0002717S">
+      <Step Status="Passed" Number="4" Name="ProductB should have annual estimate as 1400 Euro" ExecutionStart="2019-10-07T06:09:08.1625907Z" ExecutionTime="PT0.0005316S">
         <StepName Format="ProductB should have annual estimate as 1400 Euro" />
       </Step>
     </Scenario>
