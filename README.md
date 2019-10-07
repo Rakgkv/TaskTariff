@@ -46,5 +46,7 @@ and create a list of these products with the columns
 * BDD Test report URL
    * https://htmlpreview.github.io/?https://github.com/Rakgkv/TaskTariff/blob/master/TaskTariff.spec/Reports/FeaturesReport.html
 
-
-
+## Images
+ * ![Image](https://github.com/Rakgkv/TaskTariff/blob/master/Images/TaskComparsion.png)
+ 
+ * ![Image](https://github.com/Rakgkv/TaskTariff/blob/master/Images/Testreports.png)
